@@ -1,0 +1,7 @@
+google-genai
+ollama
+requests
+beautifulsoup4
+loguru
+Pillow
+lxml
