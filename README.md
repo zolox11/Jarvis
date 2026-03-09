@@ -237,7 +237,7 @@ Write a summary of https://en.wikipedia.org/wiki/Linux
 ## Save a Report
 
 ```
-Write a report on Nagore and save it to ~/Pictures/Cells/nagore.txt
+Write a report on Spain and save it to ~/Pictures/Cells/spain.txt
 ```
 
 ---
